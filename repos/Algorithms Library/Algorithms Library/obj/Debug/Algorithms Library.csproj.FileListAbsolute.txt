@@ -1,0 +1,6 @@
+D:\VS PROJECTS\repos\Algorithms Library\Algorithms Library\bin\Debug\Algorithms Library.dll
+D:\VS PROJECTS\repos\Algorithms Library\Algorithms Library\bin\Debug\Algorithms Library.pdb
+D:\VS PROJECTS\repos\Algorithms Library\Algorithms Library\obj\Debug\Algorithms Library.csproj.AssemblyReference.cache
+D:\VS PROJECTS\repos\Algorithms Library\Algorithms Library\obj\Debug\Algorithms Library.csproj.CoreCompileInputs.cache
+D:\VS PROJECTS\repos\Algorithms Library\Algorithms Library\obj\Debug\Algorithms Library.dll
+D:\VS PROJECTS\repos\Algorithms Library\Algorithms Library\obj\Debug\Algorithms Library.pdb

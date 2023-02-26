@@ -117,4 +117,17 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="about1.Text" xml:space="preserve">
+    <value>Министерство цифрового развития, связи и массовых коммуникаций РФ
+ордена Трудового Красного Знамени федеральное государственное
+бюджетное образовательное учреждение высшего образования
+«МОСКОВСКИЙ ТЕХНИЧЕСКИЙ УНИВЕРСИТЕТ СВЯЗИ И
+ИНФОРМАТИКИ»
+Кафедра «Информатика»
+Лабораторные работы
+по дисциплине «Алгоритмы и алгоритмические языки»
+Вариант №32
+
+</value>
+  </data>
 </root>

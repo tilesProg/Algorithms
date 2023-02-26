@@ -11,9 +11,9 @@ using Algorithms_Library;
 
 namespace Algorithms_Project
 {
-    public partial class Lab1_2 : Form
+    public partial class Lab1 : Form
     {
-        public Lab1_2()
+        public Lab1()
         {
             InitializeComponent();
         }
@@ -28,6 +28,13 @@ namespace Algorithms_Project
             double c = 0;
             Algoritms.Calculate3(a, ref c);
             Algoritms.Output(Output3, c);
+        }
+
+        private void Back_Click(object sender, EventArgs e)
+        {
+            Menu f = new Menu();
+            this.Hide();
+            f.ShowDialog();
         }
     }
 }

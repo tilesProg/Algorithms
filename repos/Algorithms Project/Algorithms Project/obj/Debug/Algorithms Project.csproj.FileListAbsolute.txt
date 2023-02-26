@@ -14,3 +14,19 @@ D:\VS PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms 
 D:\VS PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms Project.exe
 D:\VS PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms Project.pdb
 D:\VS PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms_Project.Lab1_1.resources
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\bin\Debug\Algorithms Project.exe.config
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\bin\Debug\Algorithms Project.exe
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\bin\Debug\Algorithms Project.pdb
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\bin\Debug\Algorithms Library.dll
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\bin\Debug\Algorithms Library.pdb
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms Project.csproj.AssemblyReference.cache
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms Project.csproj.SuggestedBindingRedirects.cache
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms_Project.Lab1_1.resources
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms_Project.Lab1_2.resources
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms_Project.Menu.resources
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms_Project.Properties.Resources.resources
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms Project.csproj.GenerateResource.cache
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms Project.csproj.CoreCompileInputs.cache
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms Project.csproj.CopyComplete
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms Project.exe
+D:\PROJECTS\repos\Algorithms Project\Algorithms Project\obj\Debug\Algorithms Project.pdb

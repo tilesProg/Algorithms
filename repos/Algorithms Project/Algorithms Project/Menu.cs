@@ -17,7 +17,21 @@ namespace Algorithms_Project
 
         private void Lab1_Click(object sender, EventArgs e)
         {
-            Lab1_1 f = new Lab1_1();
+            Lab1 f = new Lab1();
+            this.Hide();
+            f.ShowDialog();
+        }
+
+        private void about_Click(object sender, EventArgs e)
+        {
+            About f = new About();
+            this.Hide();
+            f.ShowDialog();
+        }
+
+        private void Lab2_Click(object sender, EventArgs e)
+        {
+            Lab2 f = new Lab2();
             this.Hide();
             f.ShowDialog();
         }

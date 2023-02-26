@@ -1,6 +1,6 @@
 ﻿namespace Algorithms_Project
 {
-    partial class Lab1_2
+    partial class Lab1
     {
         /// <summary>
         /// Required designer variable.
@@ -33,6 +33,7 @@
             this.Output2 = new System.Windows.Forms.TextBox();
             this.Output3 = new System.Windows.Forms.TextBox();
             this.GiveX = new System.Windows.Forms.TextBox();
+            this.Back = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // Calculate
@@ -76,17 +77,28 @@
             this.GiveX.Size = new System.Drawing.Size(100, 20);
             this.GiveX.TabIndex = 6;
             // 
-            // Lab1_2
+            // Back
+            // 
+            this.Back.Location = new System.Drawing.Point(13, 299);
+            this.Back.Name = "Back";
+            this.Back.Size = new System.Drawing.Size(75, 23);
+            this.Back.TabIndex = 7;
+            this.Back.Text = "Назад";
+            this.Back.UseVisualStyleBackColor = true;
+            this.Back.Click += new System.EventHandler(this.Back_Click);
+            // 
+            // Lab1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(336, 334);
+            this.Controls.Add(this.Back);
             this.Controls.Add(this.GiveX);
             this.Controls.Add(this.Output3);
             this.Controls.Add(this.Output2);
             this.Controls.Add(this.Output1);
             this.Controls.Add(this.Calculate);
-            this.Name = "Lab1_2";
+            this.Name = "Lab1";
             this.Text = "Лабораторная работа №1";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -100,5 +112,6 @@
         private System.Windows.Forms.TextBox Output2;
         private System.Windows.Forms.TextBox Output3;
         private System.Windows.Forms.TextBox GiveX;
+        private System.Windows.Forms.Button Back;
     }
 }

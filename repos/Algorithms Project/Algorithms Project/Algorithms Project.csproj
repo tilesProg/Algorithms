@@ -49,17 +49,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lab1-1.cs">
+    <Compile Include="About.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Lab1-1.Designer.cs">
-      <DependentUpon>Lab1-1.cs</DependentUpon>
+    <Compile Include="About.Designer.cs">
+      <DependentUpon>About.cs</DependentUpon>
     </Compile>
-    <Compile Include="Lab1-2.cs">
+    <Compile Include="Lab1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Lab1-2.Designer.cs">
-      <DependentUpon>Lab1-2.cs</DependentUpon>
+    <Compile Include="Lab1.Designer.cs">
+      <DependentUpon>Lab1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lab2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lab2.Designer.cs">
+      <DependentUpon>Lab2.cs</DependentUpon>
     </Compile>
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
@@ -69,11 +75,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Lab1-1.resx">
-      <DependentUpon>Lab1-1.cs</DependentUpon>
+    <EmbeddedResource Include="About.resx">
+      <DependentUpon>About.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Lab1-2.resx">
-      <DependentUpon>Lab1-2.cs</DependentUpon>
+    <EmbeddedResource Include="Lab1.resx">
+      <DependentUpon>Lab1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>

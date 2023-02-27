@@ -81,6 +81,9 @@
     <EmbeddedResource Include="Lab1.resx">
       <DependentUpon>Lab1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Lab2.resx">
+      <DependentUpon>Lab2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Menu.resx">
       <DependentUpon>Menu.cs</DependentUpon>
     </EmbeddedResource>

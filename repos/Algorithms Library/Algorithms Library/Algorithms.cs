@@ -32,36 +32,30 @@ namespace Algorithms_Library
         }
         public static double CalculateLab2(double x, double y, double a, double c)
         {
-            double min(double m, double n)
-            {
-                if (m < n) 
-                    return m; 
-                else 
-                    return n;
-            }
-            double max(double m, double n, double k)
-            {
-                if (m > n && m > k)
-                    return m;
-                else if (k > n && k > m)
-                    return k;
-                else
-                    return n;
-            }
+            double k;
             if (x >= 2 && x <= 3)
-                return Math.Tan(x);
+                k = Math.Tan(x);
             else if (a > 3 && x > 3)
             {
-                double ms = min(a, x);
-                return Math.Exp(ms);
+                if (a < x)
+                    k = Math.Exp(a);
+                else
+                    k = Math.Exp(x);
             }
-               
             else
             {
-                double ms = min(x, y * y);
-                double res = max(ms, Math.Sqrt(x), Math.Sqrt(y) + c);
-                return res;
+                if (x < y * y)
+                    k = x;
+                else
+                    k = y * y;
+                if (k > Math.Sqrt(x))
+                    k = Math.Sqrt(x);
+                if (Math.Sqrt(y) + c > k)
+                    k = Math.Sqrt(y) + c;
+
+
             }
+            return k;
         }
     }
 }
